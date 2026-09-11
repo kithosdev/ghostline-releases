@@ -3,13 +3,13 @@
     <channel>
         <title>Ghostline</title>
         <item>
-            <title>Ghostline 1.1 (279)</title>
-            <pubDate>Fri, 11 Sep 2026 15:21:03 -0400</pubDate>
-            <sparkle:version>279</sparkle:version>
+            <title>1.1</title>
+            <pubDate>Fri, 11 Sep 2026 18:07:06 -0400</pubDate>
+            <sparkle:version>280</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kithosdev/ghostline-releases/releases/download/v1.1-279/Ghostline-1.1.zip" length="14734331" type="application/octet-stream" sparkle:edSignature="A0dX9fOEKUuiP6nE2MoUH3j8+C6eLJCD5uB4L+gB4c4Xg52VGgBSh74krAB10NL7vx82+PnQCoKUBiG8ZyjyCA==" />
-        <description>&lt;p&gt;The Circle now shows whether a friend is in your chat, at Veil, or at Séance, with clearer Mac and iPhone indicators when both devices are active. Your ghosts keep their gentle floating motion and their places as conversations change.&lt;/p&gt;&lt;p&gt;Right-click a ghost to wave, open chat, or jump into an available game. Waves appear quietly inside chats and games too, with a wave-back action. Recent comebacks, lead changes, and broken streaks can add a small flourish to the Circle, with an explanation in the ghost’s menu.&lt;/p&gt;&lt;p&gt;Also includes the mailbox recovery fix for a “Catching up” indicator that could remain visible after games moved to the newer service.&lt;/p&gt;&lt;p&gt;For the new quiet wave experience, both people should update their apps. Earlier versions handle waves as the existing knock gesture.&lt;/p&gt;</description></item>
+            <enclosure url="https://github.com/kithosdev/ghostline-releases/releases/download/v1.1-280/Ghostline-1.1.zip" length="14752314" type="application/octet-stream" sparkle:edSignature="TqDvYBkCPOInTy9GgWkEOZISC4qlKwY1mhdWo/6PWS7tdo+zyBOjWwk79141kTs7EOepVH4VIuhQv80Ze405AA==" />
+        <description>&lt;p&gt;A cleaner, consistent quick-chat experience in Veil and Séance.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Compact chat access and matching recent-message panels in both games.&lt;/li&gt;&lt;li&gt;Messages stay clear of the letters and no longer stack over the board.&lt;/li&gt;&lt;li&gt;Previously seen game-chat bubbles no longer reappear when reopening.&lt;/li&gt;&lt;li&gt;Downloaded Mac updates offer Install and Relaunch, with clearer background-check status.&lt;/li&gt;&lt;/ul&gt;</description></item>
     </channel>
 </rss>
