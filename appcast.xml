@@ -4,12 +4,12 @@
         <title>Ghostline</title>
         <item>
             <title>1.1</title>
-            <pubDate>Fri, 11 Sep 2026 18:07:06 -0400</pubDate>
-            <sparkle:version>280</sparkle:version>
+            <pubDate>Sat, 12 Sep 2026 01:01:34 -0400</pubDate>
+            <sparkle:version>281</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kithosdev/ghostline-releases/releases/download/v1.1-280/Ghostline-1.1.zip" length="14752314" type="application/octet-stream" sparkle:edSignature="TqDvYBkCPOInTy9GgWkEOZISC4qlKwY1mhdWo/6PWS7tdo+zyBOjWwk79141kTs7EOepVH4VIuhQv80Ze405AA==" />
-        <description>&lt;p&gt;A cleaner, consistent quick-chat experience in Veil and Séance.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Compact chat access and matching recent-message panels in both games.&lt;/li&gt;&lt;li&gt;Messages stay clear of the letters and no longer stack over the board.&lt;/li&gt;&lt;li&gt;Previously seen game-chat bubbles no longer reappear when reopening.&lt;/li&gt;&lt;li&gt;Downloaded Mac updates offer Install and Relaunch, with clearer background-check status.&lt;/li&gt;&lt;/ul&gt;</description></item>
+            <enclosure url="https://github.com/kithosdev/ghostline-releases/releases/download/v1.1-281/Ghostline-1.1.zip" length="59612612" type="application/octet-stream" sparkle:edSignature="OmHrf2RYdHRvT0dLqCjIBSbJ6z/ciUSZbGxXXQvenRWYU8/GKXuSk643c1WEaoF4O71S12wC6W81mx3HH/hgAg==" />
+        <description>&lt;p&gt;Veil Pins have arrived.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A separate Pin Case for every rivalry, with twenty collectible Pins and hidden discoveries.&lt;/li&gt;&lt;li&gt;3D inspection and featured Pins.&lt;/li&gt;&lt;li&gt;Shared postgame unveilings with the recipient’s name, Ghost, lighting, and sound.&lt;/li&gt;&lt;li&gt;Last Light rewards winning in round 15 or later.&lt;/li&gt;&lt;/ul&gt;</description></item>
     </channel>
 </rss>
