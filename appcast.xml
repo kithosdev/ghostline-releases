@@ -4,12 +4,12 @@
         <title>Ghostline</title>
         <item>
             <title>1.1</title>
-            <pubDate>Tue, 29 Sep 2026 00:38:22 -0400</pubDate>
-            <sparkle:version>316</sparkle:version>
+            <pubDate>Tue, 29 Sep 2026 11:06:13 -0400</pubDate>
+            <sparkle:version>317</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kithosdev/ghostline-releases/releases/download/v1.1-316/Ghostline-1.1.zip" length="66033790" type="application/octet-stream" sparkle:edSignature="e2o27kBW3PSQStXMYrPLb/F01jfuqq62daMiXQX79SotCawvIz00U6WkQfmKi/RZ9GaFCdJO+nu2nPtpKakOCA=="/>
+            <enclosure url="https://github.com/kithosdev/ghostline-releases/releases/download/v1.1-317/Ghostline-1.1.zip" length="66033658" type="application/octet-stream" sparkle:edSignature="SB9tcnVBLqdHRVWJYjef6JsG/Dzpe5UHSzrGyUH4fysWbUBskpLOIA66V0QkJ0/0oqgf5sC7vfALVxA5Mg8MBQ=="/>
         </item>
     </channel>
 </rss>
